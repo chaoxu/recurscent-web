@@ -1,0 +1,53 @@
+/* Minimal stealth landing page consuming chao-ui (--pf-*) tokens */
+
+html,
+body {
+  height: 100%;
+  background-color: var(--pf-bg);
+  color: var(--pf-fg);
+}
+
+.stage {
+  min-height: 100dvh;
+  display: grid;
+  place-items: center;
+  padding: 32px 24px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 22px;
+  max-width: 520px;
+}
+
+.logo {
+  display: block;
+  width: min(220px, 60vw);
+  height: auto;
+}
+
+.line {
+  font-size: 1.05rem;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: -0.01em;
+  color: var(--pf-fg);
+}
+
+.contact {
+  font-family: "IBM Plex Mono", var(--pf-font-mono);
+  font-size: 0.85rem;
+  color: var(--pf-muted);
+  text-decoration: none;
+  border-bottom: 1px solid var(--pf-border-strong);
+  padding-bottom: 2px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.contact:hover {
+  color: var(--pf-accent);
+  border-bottom-color: var(--pf-accent);
+}

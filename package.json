@@ -1,0 +1,10 @@
+{
+  "name": "recurscent-web",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun run scripts/build.ts",
+    "serve": "python3 -m http.server 8787 --bind 127.0.0.1 --directory dist",
+    "preview:fleet": "bun run scripts/build.ts && fleet-pages publish --slug recurscent-web --source dist --ttl-hours 168 --reason 'Recurscent website preview' --public"
+  }
+}
