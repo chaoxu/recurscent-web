@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 636.2 132" width="636.2" height="132" role="img" aria-labelledby="title">
-  <title id="title">Recurscent</title>
+  <title id="title">recurscent</title>
   <g fill="#020618">
     <rect x="0" y="72" width="16" height="60"/>
     <rect x="30" y="42" width="16" height="90"/>
@@ -10,5 +10,5 @@
     <rect x="51" y="72" width="25" height="15"/>
     <rect x="30" y="42" width="76" height="15"/>
   </g>
-  <g transform="translate(158 42)" fill="#020618"><rect x="0" y="0" width="8" height="90"/><rect x="0" y="0" width="40.5" height="7.5"/><rect x="32.5" y="0" width="8" height="47.5"/><rect x="0" y="40" width="40.5" height="7.5"/><polygon points="18.48,46.7 27.44,46.7 42,90 33.04,90"/><rect x="50" y="0" width="8" height="90"/><rect x="50" y="0" width="38.64" height="7.5"/><rect x="50" y="40" width="32.46" height="7.5"/><rect x="50" y="82.5" width="38.64" height="7.5"/><rect x="96.64" y="0" width="8" height="90"/><rect x="96.64" y="0" width="39.48" height="7.5"/><rect x="96.64" y="82.5" width="39.48" height="7.5"/><rect x="143.64" y="0" width="8" height="90"/><rect x="177.64" y="0" width="8" height="90"/><rect x="143.64" y="82.5" width="42" height="7.5"/><rect x="193.64" y="0" width="8" height="90"/><rect x="193.64" y="0" width="40.5" height="7.5"/><rect x="226.14" y="0" width="8" height="47.5"/><rect x="193.64" y="40" width="40.5" height="7.5"/><polygon points="212.12,46.7 221.08,46.7 235.64,90 226.68,90"/><rect x="243" y="0" width="39.48" height="7.5"/><rect x="243" y="0" width="8" height="47.5"/><rect x="243" y="40" width="39.48" height="7.5"/><rect x="274.48" y="40" width="8" height="50"/><rect x="243" y="82.5" width="39.48" height="7.5"/><rect x="290.48" y="0" width="8" height="90"/><rect x="290.48" y="0" width="39.48" height="7.5"/><rect x="290.48" y="82.5" width="39.48" height="7.5"/><rect x="337.48" y="0" width="8" height="90"/><rect x="337.48" y="0" width="38.64" height="7.5"/><rect x="337.48" y="40" width="32.46" height="7.5"/><rect x="337.48" y="82.5" width="38.64" height="7.5"/><rect x="384.12" y="0" width="8" height="90"/><rect x="423.16" y="0" width="8" height="90"/><polygon points="384.12,0 392.92,0 431.16,90 422.36,90"/><rect x="437.88" y="0" width="40.32" height="7.5"/><rect x="454.04" y="0" width="8" height="90"/></g>
+  <text x="158" y="101" fill="#020618" font-family="Optima, Gill Sans, Avenir Next, Candara, IBM Plex Sans, sans-serif" font-size="76" font-weight="400" letter-spacing="1.8">recurscent</text>
 </svg>

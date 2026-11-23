@@ -1,5 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180" role="img" aria-labelledby="title">
-  <title id="title">Recurscent</title>
+  <title id="title">Recurscent Hatsune mon</title>
+  <style>@media(prefers-color-scheme:dark){g{fill:#ffffff}}</style>
   <g transform="translate(22 24)" fill="#020618">
     <rect x="0" y="72" width="16" height="60"/>
     <rect x="30" y="42" width="16" height="90"/>
